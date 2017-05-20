@@ -39,14 +39,14 @@ Convenient partials, layouts and shortcodes for Hugo (gohugo.io)
 	      email			= "johnconner@gmail.com"
 
 	      [params.authors.John.social]
-	        github			= killskynet"
-	        facebook		= killskynet"
-	        twitter			= killskynet"
-	        googleplus		= killskynet"
-	        pinterest		= killskynet"
-	        instagram		= killskynet"
-	        youtube			= killskynet"
-	        linkedin		= killskynet"
+	        github			= "killskynet"
+	        facebook		= "killskynet"
+	        twitter			= "killskynet"
+	        googleplus		= "killskynet"
+	        pinterest		= "killskynet"
+	        instagram		= "killskynet"
+	        youtube			= "killskynet"
+	        linkedin		= "killskynet"
 
 	    [params.authors.Sarah]
 	    	...
