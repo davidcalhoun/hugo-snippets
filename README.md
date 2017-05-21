@@ -55,7 +55,7 @@ Convenient partials, layouts and shortcodes for Hugo (gohugo.io)
 ### Page Front Matter
 	+++
 	// This needs to map to one of the authors setup in the .Site.Params
-	author		= John
+	author		= "John"
 
 	// An array of urls to any images referenced in the post. The first image in the array will be the default shareable image.
 	images		 = [
